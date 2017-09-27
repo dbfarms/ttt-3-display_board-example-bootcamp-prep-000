@@ -5,5 +5,5 @@ def display_board
   line_three = "   |   |   "
   line_four = "-----------"
   line_five = "   |   |   "
-  puts 
+  board_array = [line_one, line_two, line_three, line_four, line_five]
 end
